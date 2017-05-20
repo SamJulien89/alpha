@@ -1,0 +1,3 @@
+Ligne 1 fichier F  defect 1
+Ligne 2 fichier F  defect 1
+Ligne 3 fichier F  defect 1
