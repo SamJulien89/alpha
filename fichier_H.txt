@@ -1,0 +1,3 @@
+Ligne 1 fichier H defect 3
+Ligne 2 fichier H  defect 3
+Ligne 3 fichier H  defect 3
