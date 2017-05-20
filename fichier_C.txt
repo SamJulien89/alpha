@@ -1,0 +1,3 @@
+Ligne 1 fichier C
+Ligne 2 fichier C
+Ligne 3 fichier C

@@ -1,0 +1,3 @@
+Ligne 1 fichier B
+Ligne 2 fichier B
+Ligne 3 fichier B
